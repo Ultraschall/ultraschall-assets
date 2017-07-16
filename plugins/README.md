@@ -10,7 +10,13 @@ DE: Lade dir das PlugIn <a href="https://github.com/Ultraschall/Ultraschall-Bann
 DE: Lade per FTP das Plugin "ultraschall-banner-pro" in das entsprechende Wordpress Verzeichnis:
 <code>/<wordpress-path>/wp-content/plugins/ultraschall-banner-pro</code>
 
+#### Step 3
+DE: aktiviere das PlugIn in Wordpress unter: Plugin > Ultraschall-Banner Pro.
+<img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/1-us_banner-wordpress.png">
 
+#### Step 4
+DE: Erstelle ein neues Widget für deine Sitebar.
+<img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/1-us_banner-wordpress.png">
 
 
 
