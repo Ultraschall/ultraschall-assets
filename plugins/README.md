@@ -24,14 +24,43 @@ DE: Gehe in dein Theme unter: <code>Design > Widgets</code> und erstelle ein neu
 <img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/2-us_banner-wordpress.png">
 
 
+#### Step 5
+DE: Du kannst das Standard Banner nutzen oder den transparenten Banner schalten. Möchtest Du eine eigene Farbe, passend zu deinem Blog erstellen, so gebe den Type "Coloring" an und vergebe eine Farbe.
 
+Du kannst zusätzlich auch etwas unter den Banner schreiben.
+
+
+**Fields:**
+
+<pre>
+- Title: Name of Widget
+- Type:
+  - Standard (grey Background / Logo white)
+  - Transparent (transparenter Background / Logo black)
+  - Coloring (see color designer)
+- Description: Text for more informations
+- Coloring:
+  - Design color for Ultraschall Logo
+</pre>
+
+<img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/3-us_banner-wordpress_widget.png">
+
+**Frontend:**
+Das Banner ist responsive und passt sich deinem Blog automatisch an.
+
+<img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/4-us_banner_wordpress-frontend.png">
 
 
 ### License
 
-
-
 <pre>
+@name Ultraschall-Banner Pro
+@version 1.0.0
+@developed Michael McCouman Jr.
+@url http://ultraschall.fm
+
+
+
 The MIT License (MIT)
 
 Copyright (c) 2017 Ultraschall
