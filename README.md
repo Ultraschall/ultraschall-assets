@@ -1,18 +1,20 @@
 # Ultraschall-Banner
 Ultraschall Banner (Image & SVG) and Worpress Plugins
 
-### US-Banner selber integrieren:
 
-Find the Banner as CSV (static, responsive) or image files under: 
-http://us-banner.wikibyte.org
 
-### US-Banner as Wordpress Plugin
+### Wordpress Plugin: Ultraschall-Banner Pro
 
 You can download the Ultraschall Banners as WordPress plugin. 
 
 See the <a href="https://github.com/Ultraschall/Ultraschall-Banner/tree/master/plugins">installation guide</a> for mor informations.
 
-### US-Banner files download
+### Ultraschall-Banner (CSV & Image):
+
+Find the Banner as CSV (static, responsive) or image files under: 
+http://us-banner.wikibyte.org
+
+### Ultraschall-Banner (all files):
 
 You can download the Ultraschall-Banner files as image and csv.
 
