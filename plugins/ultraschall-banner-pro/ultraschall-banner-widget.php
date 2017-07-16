@@ -4,9 +4,32 @@ Plugin Name:  Ultraschall-Banner Pro
 Description:  Use the widget to create an Ultraschall banner in the sidebar of your podcasts.
 Plugin URI:   http://ultraschall.fm
 Version:      1.0
-Author:       Michael McCouman jr.
-Author URI:   http://wikibyte.org/
-Props:        Michael McCouman jr.
+Author:       Michael McCouman Jr. (Ultraschall.fm)
+Author URI:   http://ultraschall.fm
+Props:        Michael McCouman Jr.
+
+							The MIT License (MIT)
+
+							Copyright (c) 2017 Ultraschall
+
+							Permission is hereby granted, free of charge, to any person obtaining a copy
+							of this software and associated documentation files (the "Software"), to deal
+							in the Software without restriction, including without limitation the rights
+							to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+							copies of the Software, and to permit persons to whom the Software is
+							furnished to do so, subject to the following conditions:
+
+							The above copyright notice and this permission notice shall be included in all
+							copies or substantial portions of the Software.
+
+							THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+							IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+							FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+							AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+							LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+							OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+							SOFTWARE.
+
 License:      MIT
 */
 
@@ -160,32 +183,32 @@ class ultraschall_banner_i_widget extends WP_Widget {
 				<?php
 				// (check) ? (then true) : (then false);
 				echo '<option';
-				echo ( esc_attr( $stream ) == '' ) ? ' 
-	                    value="" selected="selected"> -- Please select -- </option>' : ' 
+				echo ( esc_attr( $stream ) == '' ) ? '
+	                    value="" selected="selected"> -- Please select -- </option>' : '
 	                    value=""> -- Please select -- </option>';
 
 				##---------
 
 				//Background
 				echo '<option';
-				echo ( esc_attr( $stream ) == 'background' ) ? ' 
-						value="background" selected="selected"> Ultraschall Banner (Standard) </option>' : ' 
+				echo ( esc_attr( $stream ) == 'background' ) ? '
+						value="background" selected="selected"> Ultraschall Banner (Standard) </option>' : '
 						value="background"> Ultraschall Banner (Standard) </option>';
 
 				##---------
 
 				//Transparent
 				echo '<option';
-				echo ( esc_attr( $stream ) == 'transparent' ) ? '  
-	                    value="transparent" selected="selected"> Ultraschall Banner (Transparent) </option>' : ' 
+				echo ( esc_attr( $stream ) == 'transparent' ) ? '
+	                    value="transparent" selected="selected"> Ultraschall Banner (Transparent) </option>' : '
 	                    value="transparent"> Ultraschall Banner (Transparent) </option>';
 
 				##---------
 
 				//Color
 				echo '<option';
-				echo ( esc_attr( $stream ) == 'color' ) ? ' 
-						value="color" selected="selected"> Design US-Logo (Color-Designer) </option>' : ' 
+				echo ( esc_attr( $stream ) == 'color' ) ? '
+						value="color" selected="selected"> Design US-Logo (Color-Designer) </option>' : '
 						value="color"> Design US-Logo (Color-Designer) </option>';
 
 				?>
@@ -292,4 +315,3 @@ add_action( 'admin_print_styles-widgets.php', 'sample_load_color_picker_style' )
 function sample_load_color_picker_style() {
 	wp_enqueue_style( 'farbtastic' );
 }
-
