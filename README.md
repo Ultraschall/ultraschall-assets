@@ -5,9 +5,9 @@ Ultraschall Banner (Image & SVG) and Worpress Plugins
 
 ## Wordpress Plugin: Ultraschall-Banner Pro
 
-You can download the Ultraschall Banners as WordPress plugin. 
+You can download the Ultraschall Banner as WordPress plugin. 
 
-See the <a href="https://github.com/Ultraschall/Ultraschall-Banner/tree/master/plugins">installation guide</a> for mor informations.
+See the <a href="https://github.com/Ultraschall/Ultraschall-Banner/tree/master/plugins">installation guide</a> for more informations.
 
 ## Integration: Ultraschall-Banner (SVG & images):
 
