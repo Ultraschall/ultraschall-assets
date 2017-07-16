@@ -1,6 +1,6 @@
 
 ## Ultraschall-Banner Pro
-PlugIn for Wordpress! 
+PlugIn for Wordpress!
 
 ### WordPress installation
 
@@ -10,7 +10,7 @@ DE: Lade dir das PlugIn <a href="https://github.com/Ultraschall/Ultraschall-Bann
 #### Step 2
 DE: Lade per FTP das Plugin "ultraschall-banner-pro" in das entsprechende Wordpress Verzeichnis:
 
-<code>/<wordpress-path>/wp-content/plugins/ultraschall-banner-pro</code>
+<code>/&lt;wordpress-path>/wp-content/plugins/ultraschall-banner-pro</code>
 
 #### Step 3
 DE: aktiviere das PlugIn in Wordpress unter:
