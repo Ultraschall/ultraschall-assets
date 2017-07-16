@@ -3,7 +3,7 @@ Ultraschall Banner (Image & SVG) and Worpress Plugins
 
 ### US-Banner selber integrieren:
 
-Finde mehr auf: 
+Find the Banner as CSV (static, responsive) or image files under: 
 http://us-banner.wikibyte.org
 
 ### US-Banner as Wordpress Plugin
