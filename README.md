@@ -9,7 +9,7 @@ You can download the Ultraschall Banners as WordPress plugin.
 
 See the <a href="https://github.com/Ultraschall/Ultraschall-Banner/tree/master/plugins">installation guide</a> for mor informations.
 
-## Integration: Ultraschall-Banner (CSVs & images):
+## Integration: Ultraschall-Banner (SVG & images):
 
 Find the Banner as CSV (static, responsive) or image files under: 
 
@@ -30,7 +30,7 @@ Click on <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/b
 * @version: 3.1
 * @designer: Ralf Stockmann
 *
-* CSV-Banner:
+* SVG-Banner:
 * @version: 3.1
 * @design & developing: Michael McCouman Jr.
 *
