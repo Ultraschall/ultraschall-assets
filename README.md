@@ -3,18 +3,19 @@ Ultraschall Banner (Image & SVG) and Worpress Plugins
 
 
 
-### Wordpress Plugin: Ultraschall-Banner Pro
+## Wordpress Plugin: Ultraschall-Banner Pro
 
 You can download the Ultraschall Banners as WordPress plugin. 
 
 See the <a href="https://github.com/Ultraschall/Ultraschall-Banner/tree/master/plugins">installation guide</a> for mor informations.
 
-### Integration: Ultraschall-Banner (CSVs & images):
+## Integration: Ultraschall-Banner (CSVs & images):
 
 Find the Banner as CSV (static, responsive) or image files under: 
-http://us-banner.wikibyte.org
 
-### Files: All Ultraschall-Banner (zip):
+<a href="http://us-banner.wikibyte.org">Ultraschall-Banner Service</a>
+
+## Files: All Ultraschall-Banner (zip):
 
 You can download the Ultraschall-Banner files as image and csv.
 
@@ -36,6 +37,8 @@ Click on <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/b
 * @copyright: http://ultraschall.fm
 * @license: MIT
 */
+
+
   The MIT License (MIT)
 
   Copyright (c) 2017 Ultraschall
