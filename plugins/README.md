@@ -38,10 +38,7 @@ Du kannst zusätzlich auch etwas unter den Banner schreiben.
 - Type:
   - Standard (grey Background / Logo white)
   - Transparent (transparenter Background / Logo black)
-  - Coloring (see color designer)
 - Description: Text for more informations
-- Coloring:
-  - Design color for Ultraschall Logo
 </pre>
 
 <img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/3-us_banner-wordpress_widget.png">
