@@ -55,7 +55,7 @@ Du kannst zusätzlich auch etwas unter den Banner schreiben.
 
 <pre>
 @name Ultraschall-Banner Pro
-@version 1.0.0
+@version 2.0
 @developed Michael McCouman Jr.
 @url http://ultraschall.fm
 
