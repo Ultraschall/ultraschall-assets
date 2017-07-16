@@ -22,7 +22,7 @@ DE: aktiviere das PlugIn in Wordpress unter:
 #### Step 4
 DE: Gehe in dein Theme unter: <code>Design > Widgets</code> und erstelle ein neues Widget für deine Sitebar.
 
-<img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/2-us_banner-wordpress.png">
+<img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/2-us_banner-wordpress-widgets.png">
 
 
 #### Step 5
