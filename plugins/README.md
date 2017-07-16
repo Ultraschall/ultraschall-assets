@@ -1,7 +1,8 @@
 
-## Ultraschall Banner PlugIn for Wordpress
+## Ultraschall-Banner Pro
+PlugIn for Wordpress! 
 
-### Install
+### WordPress installation
 
 #### Step 1
 DE: Lade dir das PlugIn <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/plugins/ultraschall-banner-pro.zip">hier</a> herunter.
