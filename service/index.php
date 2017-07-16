@@ -1,3 +1,7 @@
+<?php
+echo "Seite in Arbeit";
+
+/*
 <!DOCTYPE html>
 <html>
 <head>
@@ -31,8 +35,20 @@
 </head>
 <body>
   <h1>Ultraschall Banner</h1>
-  <p>Hier findest Du die Ultraschall Banner zum selber einbauen oder verwenden als <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/banner/ultraschall-banner.zip"
-    title="download Ultraschall-Banner">Download (zip)</a>.</p>
+  
+  <h2>Hier findest Du die Ultraschall Banner zum selber einbauen.</h2>
+  <br>
+  
+  <p><b>Lieber das Wordpress Plugin nutzen?</b> </p>
+  <p>Die Anleitung und den Download findest Du genau <a target="_blank" 
+  href="https://github.com/Ultraschall/Ultraschall-Banner/tree/master/plugins">hier</a>.</p>
+  
+  <br>
+  
+  <p><b>Du brauchst lieber das ganze als Datei?</b></p>
+  <p>Dann ist unsere <a 
+  href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/banner/ultraschall-banner.zip"
+    title="download Ultraschall-Banner">Sammlung (zip)</a> vielleicht die bessere Wahl für dich!</p>
   <br>
 
 
@@ -178,7 +194,7 @@
 *
 * @copyright: http://ultraschall.fm
 * @license: MIT
-*/
+*
 </pre>
 
 <pre>
@@ -206,3 +222,5 @@
 </pre>
 </body>
 </html>
+*/
+?>

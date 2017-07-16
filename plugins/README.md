@@ -1,21 +1,21 @@
 
-## Ultraschall-Banner Pro
+## Ultraschall-Banner 2.0
 PlugIn for Wordpress!
 
 ### WordPress installation
 
 #### Step 1
-DE: Lade dir das PlugIn <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/plugins/ultraschall-banner-pro.zip">hier</a> herunter.
+DE: Lade dir das PlugIn <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/plugins/ultraschall-banner-2.0.zip">hier</a> herunter.
 
 #### Step 2
 DE: Lade per FTP das Plugin "ultraschall-banner-pro" in das entsprechende Wordpress Verzeichnis:
 
-<code>/&lt;wordpress-path>/wp-content/plugins/ultraschall-banner-pro</code>
+<code>/&lt;wordpress-path>/wp-content/plugins/ultraschall-banner-2.0</code>
 
 #### Step 3
 DE: aktiviere das PlugIn in Wordpress unter:
 
-<code>Plugin > Ultraschall-Banner Pro</code>.
+<code>Plugin > Ultraschall-Banner 2.0</code>.
 
 <img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/1-us_banner-wordpress.png">
 
@@ -36,15 +36,17 @@ Du kannst zusätzlich auch etwas unter den Banner schreiben.
 <pre>
 - Title: Name of Widget
 - Type:
-  - Standard (grey Background / Logo white)
-  - Transparent (transparenter Background / Logo black)
+  - SVG Standard
+  - SVG Black / Transparent
+  - Image 400px
+  - Image 800px
+  - Image 2000px
 - Description: Text for more informations
 </pre>
 
 <img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/3-us_banner-wordpress_widget.png">
 
-**Frontend:**
-Das Banner ist responsive und passt sich deinem Blog automatisch an.
+**Beispiele im Frontend:**
 
 <img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/4-us_banner_wordpress-frontend.png">
 
