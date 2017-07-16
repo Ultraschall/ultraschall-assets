@@ -10,7 +10,7 @@ http://us-banner.wikibyte.org
 
 You can download the Ultraschall Banners as WordPress plugin. 
 
-See the <a href="https://github.com/Ultraschall/Ultraschall-Banner/tree/master/plugins">installation guid</a> for mor informations.
+See the <a href="https://github.com/Ultraschall/Ultraschall-Banner/tree/master/plugins">installation guide</a> for mor informations.
 
 ## US-Banner files download
 
