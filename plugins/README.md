@@ -4,10 +4,11 @@
 ### Install
 
 #### Step 1
-DE:
-Lade dir das PlugIn <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/plugins/ultraschall-banner-pro.zip">hier</a> herunter.
+DE: Lade dir das PlugIn <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/plugins/ultraschall-banner-pro.zip">hier</a> herunter.
 
-#### Step 1
+#### Step 2
+DE: Lade per FTP das Plugin "ultraschall-banner-pro" in das entsprechende Wordpress Verzeichnis:
+<code>/<wordpress-path>/wp-content/plugins/ultraschall-banner-pro</code>
 
 
 
