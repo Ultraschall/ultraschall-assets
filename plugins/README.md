@@ -8,14 +8,11 @@ PlugIn for Wordpress!
 DE: Lade dir das PlugIn <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/plugins/ultraschall-banner-2.0.zip">hier</a> herunter.
 
 #### Step 2
-DE: Lade per FTP das Plugin "ultraschall-banner-pro" in das entsprechende Wordpress Verzeichnis:
-
+DE: Lade per FTP das Plugin "ultraschall-banner-2.0" in das entsprechende Wordpress Verzeichnis:
 <code>/&lt;wordpress-path>/wp-content/plugins/ultraschall-banner-2.0</code>
 
 #### Step 3
-DE: aktiviere das PlugIn in Wordpress unter:
-
-<code>Plugin > Ultraschall-Banner 2.0</code>.
+DE: aktiviere das PlugIn in Wordpress unter: <code>Plugin > Ultraschall-Banner 2.0</code>.
 
 <img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/1-us_banner-wordpress.png">
 
@@ -26,9 +23,7 @@ DE: Gehe in dein Theme unter: <code>Design > Widgets</code> und erstelle ein neu
 
 
 #### Step 5
-DE: Du kannst das Standard Banner nutzen oder den transparenten Banner schalten. Möchtest Du eine eigene Farbe, passend zu deinem Blog erstellen, so gebe den Type "Coloring" an und vergebe eine Farbe.
-
-Du kannst zusätzlich auch etwas unter den Banner schreiben.
+DE: Du kannst das Standard Banner nutzen oder den transparenten Banner schalten. Du kannst zusätzlich auch etwas unter den Banner schreiben ;-)
 
 
 **Fields:**
