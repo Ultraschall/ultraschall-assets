@@ -24,7 +24,7 @@ Click on <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/b
 ### License
 <pre>
 /**
-* Ultraschall Banner
+* Ultraschall Banner 2.0
 *
 * Images-Banner:
 * @version: 3.1
