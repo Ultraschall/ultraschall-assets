@@ -19,7 +19,7 @@ Find the Banner as CSV (static, responsive) or image files under:
 
 You can download the Ultraschall-Banner files as image and csv.
 
-Click on <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/banner/ultraschall-banner.zip">download all files</a>
+Click on <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/source/ultraschall-banner_2.0.zip">download all files</a>
 
 ### License
 <pre>
