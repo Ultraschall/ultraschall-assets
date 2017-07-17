@@ -53,7 +53,7 @@ class ultraschall_banner_i_widget extends WP_Widget
             'Ultraschall_Banner_Widget',      // Base ID
             'Ultraschall Banner 2.0',   // Name
             array(
-                'description' => __('Create an Ultrachall Banner in the sidebar of your podcasts.', 'text_domain'),
+                'description' => __('Create an Ultraschall Banner for your podcast!', 'text_domain'),
             )
         );
     }
@@ -86,12 +86,16 @@ class ultraschall_banner_i_widget extends WP_Widget
         //Widget banner
         if (!empty($stream)) {
             if ($stream == 'transparent') {
-                echo '<a target="_blank" title="Ultraschall" href="' . $weblink . '">';
+                echo '<a style="color: transparent;box-shadow: none;" target="_blank" title="Ultraschall" href="' . $weblink . '">';
                 echo us_banner_transparent();
                 echo '</a>';
             } elseif ($stream == 'background') {
-                echo '<a target="_blank" title="Ultraschall" href="' . $weblink . '">';
+                echo '<a style="color: transparent;box-shadow: none;" target="_blank" title="Ultraschall" href="' . $weblink . '">';
                 echo us_banner_background();
+                echo '</a>';
+            } elseif ($stream == 'transparent_light') {
+                echo '<a style="color: transparent;box-shadow: none;" target="_blank" title="Ultraschall" href="' . $weblink . '">';
+                echo us_banner_transparent_light();
                 echo '</a>';
             } elseif ($stream == 'image_400') {
                 echo '<a target="_blank" title="Ultraschall" href="' . $weblink . '">';
@@ -106,7 +110,7 @@ class ultraschall_banner_i_widget extends WP_Widget
                 echo us_banner_image_2000();
                 echo '</a>';
             } else {
-                echo '<a target="_blank" title="Ultraschall" href="' . $weblink . '">';
+                echo '<a style="color: transparent;" target="_blank" title="Ultraschall" href="' . $weblink . '">';
                 echo us_banner_transparent();
                 echo '</a>';
             }
@@ -192,16 +196,24 @@ class ultraschall_banner_i_widget extends WP_Widget
                     //Background
                     echo '<option';
                     echo (esc_attr($stream) == 'background') ? '
-                        value="background" selected="selected"> Standard (Responsive) </option>' : '
-                        value="background"> Standard (Responsive) </option>';
+                        value="background" selected="selected"> Standard Banner </option>' : '
+                        value="background"> Standard Banner </option>';
 
                     ##---------
 
-                    //Transparent
+                    //Transparent Black
                     echo '<option';
                     echo (esc_attr($stream) == 'transparent') ? '
-                        value="transparent" selected="selected"> Black (Responsive) </option>' : '
-                        value="transparent"> Black Responsive </option>';
+                        value="transparent" selected="selected"> Light Themes </option>' : '
+                        value="transparent"> Light Themes </option>';
+
+                    ##---------
+
+                    //Transparent Light
+                    echo '<option';
+                    echo (esc_attr($stream) == 'transparent_light') ? '
+                        value="transparent_light" selected="selected"> Dark Themes </option>' : '
+                        value="transparent_light"> Dark Themes </option>';
 
                     ##---------
 
