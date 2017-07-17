@@ -1,5 +1,5 @@
 # Ultraschall Banner 2.0
-## Wordpress Plugin: Ultraschall-Banner Pro
+## Wordpress Plugin: Ultraschall-Banner 2.0
 
 You can download the Ultraschall Banner as WordPress plugin. 
 
