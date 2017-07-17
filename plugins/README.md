@@ -17,7 +17,7 @@ DE: aktiviere das PlugIn in Wordpress unter: <code>Plugin > Ultraschall-Banner 2
 <img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/1-us_banner-wordpress.png">
 
 #### Step 4
-DE: Gehe in dein Theme unter: <code>Design > Widgets</code> und erstelle ein neues Widget für deine Sitebar.
+DE: Gehe in dein Theme unter: <code>Design > Widgets</code> und erstelle ein neues Ultraschall Banner 2.0 Widget für deine Sidebar.
 
 <img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/2-us_banner-wordpress-widgets.png">
 
