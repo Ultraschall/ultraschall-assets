@@ -1,13 +1,25 @@
-## Version 1.0
+# Version 2.0 Update
 
-Ultraschall-Banner Pro by Michael McCouman Jr.
-----
-
+## Changelog
 Use the widget to create an Ultraschall banner in the sidebar of your podcasts
 
-- Create svg ultraschall banner with link
-- type: transparent
-- type: standard
-- type: coloring
-- function: description (small informations)
-- function: color designer
+
+- New Type:
+  - SVG Light Banner (for dark designs)
+  - Image 400px
+  - Image 800px
+  - Image 2000px
+- Update SVG: 
+   - Version 2.0 
+   - svgo minify
+
+
+# Version 1.0 Alpha
+
+- Title: Name of Widget
+- Type:
+  - SVG Standard
+  - SVG Black Banner (for bright designs)
+- Description: Text for more informations
+
+Ultraschall-Banner 2.0 by Michael McCouman Jr.
