@@ -23,7 +23,7 @@ DE: Gehe in dein Theme unter: <code>Design > Widgets</code> und erstelle ein neu
 
 
 #### Step 5
-DE: Du kannst das Standard Banner nutzen oder den transparenten Banner schalten. Du kannst zusätzlich auch etwas unter den Banner schreiben ;-)
+DE: Du kannst das standard Banner oder eines der anderen bildbasierenden Banner nutzen. Selbstverständlich, kannst Du etwas  zusätzliches unter den Banner schreiben ;-)
 
 
 **Fields:**
@@ -32,7 +32,8 @@ DE: Du kannst das Standard Banner nutzen oder den transparenten Banner schalten.
 - Title: Name of Widget
 - Type:
   - SVG Standard
-  - SVG Black / Transparent
+  - SVG Black Banner (for bright designs)
+  - SVG Light Banner (for dark designs)
   - Image 400px
   - Image 800px
   - Image 2000px
