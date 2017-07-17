@@ -50,7 +50,7 @@ DE: Du kannst das standard Banner oder eines der anderen bildbasierenden Banner 
 ### License
 
 <pre>
-@name Ultraschall-Banner Pro
+@name Ultraschall-Banner 2.0
 @version 2.0
 @developed Michael McCouman Jr.
 @url http://ultraschall.fm
