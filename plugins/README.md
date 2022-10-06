@@ -5,14 +5,14 @@ Plugin for Wordpress! (php 8 stable)
 ### WordPress installation
 
 #### Step 1
-DE: Lade dir das PlugIn <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/plugins/ultraschall-banner-2.0.zip">hier</a> herunter.
+DE: Lade dir das PlugIn <a href="https://github.com/Ultraschall/Ultraschall-Banner/raw/master/plugins/ultraschall-banner-2.1.zip">hier</a> herunter.
 
 #### Step 2
-DE: Lade per FTP das Plugin "ultraschall-banner-2.0" in das entsprechende Wordpress Verzeichnis:
-<code>/&lt;wordpress-path>/wp-content/plugins/ultraschall-banner-2.0</code>
+DE: Lade per FTP das Plugin "ultraschall-banner-2.1" in das entsprechende Wordpress Verzeichnis:
+<code>/&lt;wordpress-path>/wp-content/plugins/ultraschall-banner-2.1</code>
 
 #### Step 3
-DE: aktiviere das PlugIn in Wordpress unter: <code>Plugin > Ultraschall-Banner 2.0</code>.
+DE: aktiviere das PlugIn in Wordpress unter: <code>Plugin > Ultraschall-Banner 2.1</code>.
 
 <img src="https://raw.githubusercontent.com/Ultraschall/Ultraschall-Banner/master/plugins/1-us_banner-wordpress.png">
 
@@ -50,8 +50,8 @@ DE: Du kannst das standard Banner oder eines der anderen bildbasierenden Banner 
 ### License
 
 <pre>
-@name Ultraschall-Banner 2.0
-@version 2.0
+@name Ultraschall-Banner 2.1
+@version 2.1
 @developed Michael McCouman Jr.
 @url http://ultraschall.fm
 
@@ -59,7 +59,7 @@ DE: Du kannst das standard Banner oder eines der anderen bildbasierenden Banner 
 
 The MIT License (MIT)
 
-Copyright (c) 2017 Ultraschall
+Copyright (c) 2017-2022 Ultraschall
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
