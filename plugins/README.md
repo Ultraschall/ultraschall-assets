@@ -1,6 +1,6 @@
 
-## Ultraschall-Banner 2.0
-PlugIn for Wordpress!
+## Ultraschall-Banner 2.1
+Plugin for Wordpress! (php 8 stable)
 
 ### WordPress installation
 
