@@ -1,16 +1,16 @@
 <?php
 /*
-Plugin Name:  Ultraschall-Banner 2.0
+Plugin Name:  Ultraschall-Banner 2.1
 Description:  Use the widget to create an Ultraschall banner in the sidebar of your podcasts.
 Plugin URI:   http://ultraschall.fm
-Version:      2.0 Update
+Version:      2.1 Update stable for php 8.0
 Author:       Michael McCouman Jr. (Ultraschall.fm)
 Author URI:   http://ultraschall.fm
 Props:        Michael McCouman Jr.
 
 	The MIT License (MIT)
 
-	Copyright (c) 2017 Ultraschall
+	Copyright (c) 2017-2022 Ultraschall
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
@@ -34,13 +34,17 @@ License:      MIT
 */
 
 
-include_once 'inc/handling.php';
+include_once('inc/handling.php');
 
 
 /**
  * Adds Ultraschall-Banner widget.
  */
-add_action('widgets_init', create_function('', 'return register_widget("ultraschall_banner_i_widget");'));
+add_action('widgets_init', 'wpdocs_register_widgets');
+
+function wpdocs_register_widgets() {
+    register_widget( 'ultraschall_banner_i_widget' );
+}
 
 class ultraschall_banner_i_widget extends WP_Widget
 {
@@ -51,7 +55,7 @@ class ultraschall_banner_i_widget extends WP_Widget
     {
         parent::__construct(
             'Ultraschall_Banner_Widget',      // Base ID
-            'Ultraschall Banner 2.0',   // Name
+            'Ultraschall Banner 2.1',   // Name
             array(
                 'description' => __('Create an Ultraschall Banner for your podcast!', 'text_domain'),
             )
